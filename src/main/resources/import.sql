@@ -25,4 +25,12 @@ INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 8, 2);
 INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 9, 3);
 INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 10, 4);
 
+INSERT INTO tb_players (name) VALUES ('Filipe');
+INSERT INTO tb_players (name) VALUES ('Miguel');
+INSERT INTO tb_players (name) VALUES ('Daniel');
+INSERT INTO tb_players (name) VALUES ('Daiane');
 
+INSERT INTO tb_consoles (description) VALUES ('Mega Drive');
+INSERT INTO tb_consoles (description) VALUES ('Super Nes');
+INSERT INTO tb_consoles (description) VALUES ('Playstation');
+INSERT INTO tb_consoles (description) VALUES ('X-Box');
